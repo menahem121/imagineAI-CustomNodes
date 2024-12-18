@@ -1,6 +1,6 @@
 # imagineAI-CustomNodes
 Created : 18/12/24
-imagineAI Custom Nodes for comfyUI
+Custom Nodes for comfyUI
 
 all are just copied from owner repo without any modifications except for:
 MODIFIED NODES:
