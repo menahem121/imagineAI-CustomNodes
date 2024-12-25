@@ -19,7 +19,7 @@ typer_config
 fastapi
 rich
 google-generativeai
-diffusers>=4.45.0
+diffusers
 omegaconf
 tqdm
 transformers>=4.45.0
