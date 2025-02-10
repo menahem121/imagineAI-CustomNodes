@@ -1,2 +1,0 @@
-# No additional requirements needed
-# The only dependency is PyTorch, which is already provided by ComfyUI
