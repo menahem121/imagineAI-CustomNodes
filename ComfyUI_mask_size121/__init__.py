@@ -5,6 +5,6 @@
 @description: ComfyUI_mask_size121
 """
 
-from .Setmaks import NODE_CLASS_MAPPINGS
+from .Setmask import NODE_CLASS_MAPPINGS
 
 __all__ = ['NODE_CLASS_MAPPINGS']
